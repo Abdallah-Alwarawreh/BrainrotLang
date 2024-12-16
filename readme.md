@@ -85,6 +85,7 @@ Run it with the interpreter to see it in action! 🎉
 ## Special Thanks To ❤️:
 
 -   **Nufshi**: Video editing help
+-   **skyerush.**: Thumbnail help
 -   **Yankuutsun (Yolo)**: File format suggestion
 -   **Taco**: Emotional Support
 
