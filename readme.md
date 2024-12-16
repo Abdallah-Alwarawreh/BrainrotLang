@@ -2,7 +2,7 @@
 
 This repository contains the interpreter for the **Gen Z Programming Language**, a fun and quirky language that encapsulates the chaos of Gen Z culture in code. Inspired by brainrot, and the unapologetic essence of iPad kids, this project is both an experiment and a statement.
 
-This was made for a youtube video, you can watch it [here]().
+This was made for a youtube video, you can watch it [here](https://youtu.be/bDhQPRyz8eE).
 
 ---
 
