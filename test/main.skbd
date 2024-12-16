@@ -1,0 +1,17 @@
+pluh fizzbuzz(i) {
+    fanum (i % 3 == 0){
+        fanum (i % 5 == 0) {
+            buss("FizzBuzz")
+        } tax {
+            buss("Fizz")
+        }
+    } tax fanum (i % 5 == 0) {
+        buss("Buzz")
+    } tax {
+        buss(i)
+    }
+}
+
+fizzbuzz(3)
+fizzbuzz(5)
+fizzbuzz(15)
